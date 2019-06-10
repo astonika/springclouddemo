@@ -9,7 +9,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<artifactId>eurekaserver</artifactId>
+	<artifactId>eureka-server</artifactId>
 	<description>Demo project for Spring Boot</description>
 
 	<dependencies>
